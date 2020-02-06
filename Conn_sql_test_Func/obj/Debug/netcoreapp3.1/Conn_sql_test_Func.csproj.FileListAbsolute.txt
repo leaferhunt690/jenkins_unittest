@@ -1,0 +1,147 @@
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfoInputs.cache
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfo.cs
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.exe
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.exe
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.deps.json
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.json
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.dev.json
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.pdb
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csproj.CopyComplete
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb
+C:\Users\Cheng Han Lin\source\repos\conn_mysql\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.exe
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.exe
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.deps.json
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.json
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\MySql.Data.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.pdb
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfo.cs
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csproj.CopyComplete
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\vmware-host\Shared Folders\桌面\local repository\jenkins_UnitTest\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.exe
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.exe
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.deps.json
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.json
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.dev.json
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.pdb
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csprojAssemblyReference.cache
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfoInputs.cache
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfo.cs
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csproj.CopyComplete
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.exe
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.exe
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.deps.json
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.json
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.dev.json
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\bin\Debug\netcoreapp3.1\Conn_mysql.pdb
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csprojAssemblyReference.cache
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfoInputs.cache
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfo.cs
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.csproj.CopyComplete
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\Conn_sql_test_Func\obj\Debug\netcoreapp3.1\Conn_sql_test_Func.pdb

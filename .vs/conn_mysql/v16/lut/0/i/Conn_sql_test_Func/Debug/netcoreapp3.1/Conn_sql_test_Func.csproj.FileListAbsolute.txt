@@ -1,0 +1,28 @@
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_mysql.exe
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.exe
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.deps.json
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.json
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.dev.json
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.csprojAssemblyReference.cache
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfoInputs.cache
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfo.cs
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.csproj.CopyComplete
+C:\Users\Harry Lin\Desktop\Local Repository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_mysql.exe
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.exe
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.deps.json
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.json
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.runtimeconfig.dev.json
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\b\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.csprojAssemblyReference.cache
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfoInputs.cache
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.AssemblyInfo.cs
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.csproj.CopyComplete
+C:\Users\Harry Lin\Desktop\LocalRepository\git_build_test\.vs\conn_mysql\v16\lut\0\i\Conn_sql_test_Func\Debug\netcoreapp3.1\Conn_sql_test_Func.dll
